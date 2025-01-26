@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "me.aidrob.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"MixinGameOptions"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
